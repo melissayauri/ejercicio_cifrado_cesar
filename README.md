@@ -14,6 +14,3 @@ Leer palabra
 2.7 Convierte del codigo ascii a letra   
 2.8 Devuelve la palabra encriptada en la variable output
 2.7 Fin
-
-3.Diagrama de flujo
-https://cloud.smartdraw.com/share.aspx/?pubDocShare=351AA585303806D4FF2F9801E0E90DDE3DC
