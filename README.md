@@ -14,3 +14,6 @@ Leer palabra
 2.7 Convierte del codigo ascii a letra   
 2.8 Devuelve la palabra encriptada en la variable output
 2.7 Fin
+
+3. Diagrama de flujo
+![recursos](assets/cifrado_cesar.jpg)
