@@ -13,7 +13,9 @@ Leer palabra
 2.6 Se procede a analizar si el codigo esta dentro del rango de letras mayusculas o minusculas y se ejecuta los 33 espacios solicitados    
 2.7 Convierte del codigo ascii a letra   
 2.8 Devuelve la palabra encriptada en la variable output
+
 2.7 Fin
 
-3. Diagrama de flujo
+
+3.Diagrama de flujo
 ![recursos](assets/cifrado_cesar.jpg)
